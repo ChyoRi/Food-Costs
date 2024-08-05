@@ -12,6 +12,10 @@ const GlobalStyle = createGlobalStyle`
     padding: 30px;
   }
 
+  li {
+    list-style: none;
+  }
+
   img {
     vertical-align: top;
   }
